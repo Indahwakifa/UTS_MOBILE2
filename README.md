@@ -2,8 +2,10 @@
 # NAMA: INDAH WAFIKAH 
 # KELAS: TI.24.A5
 
-# LINK CLICKUP:
+
+
+#1.LINK CLICKUP:
 https://app.clickup.com/90181885942/v/li/901816393651
 
-# lINK FIGMA
+#2.LINK FIGMA
 https://www.figma.com/design/MDewN9mHFkcg2bUf0GVYLA/Untitled?node-id=280-23&t=A7WMYFMhaUShEBh4-1
